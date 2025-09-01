@@ -1,0 +1,2702 @@
+{
+	"GatherableTextData": [],
+	"ImportTable": [
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -18,
+			"ObjectName": "MetaData",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineAntiAliasingSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineColorSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineExecutorJob",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineExecutorShot",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineGameOverrideSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineOutputSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelinePrimaryConfig",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -19,
+			"ObjectName": "MoviePipelineQueue",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -20,
+			"ObjectName": "MoviePipelineDeferredPassBase",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -20,
+			"ObjectName": "MoviePipelineImageSequenceOutput_EXR",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Class",
+			"OuterIndex": -21,
+			"ObjectName": "MoviePipelineConsoleVariableSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelineExecutorJob",
+			"OuterIndex": -19,
+			"ObjectName": "Default__MoviePipelineExecutorJob",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelineOutputSetting",
+			"OuterIndex": -15,
+			"ObjectName": "DefaultOutputSetting",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/MovieRenderPipelineCore",
+			"ClassName": "MoviePipelinePrimaryConfig",
+			"OuterIndex": -13,
+			"ObjectName": "DefaultConfig",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/OpenColorIO",
+			"ClassName": "OpenColorIOConfiguration",
+			"OuterIndex": -17,
+			"ObjectName": "NewOpenColorIOConfiguration",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Game/NewOpenColorIOConfiguration",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/CoreUObject",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/MovieRenderPipelineCore",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/MovieRenderPipelineRenderPasses",
+			"PackageName": "None",
+			"bImportOptional": false
+		},
+		{
+			"ClassPackage": "/Script/CoreUObject",
+			"ClassName": "Package",
+			"OuterIndex": 0,
+			"ObjectName": "/Script/MovieRenderPipelineSettings",
+			"PackageName": "None",
+			"bImportOptional": false
+		}
+	],
+	"ExportTable": [
+		{
+			"ClassIndex": -1,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "PackageMetaData",
+			"ObjectFlags": 2,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": true,
+			"bNotForServer": true,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": false,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -2,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineAntiAliasingSetting_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -3,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineColorSetting_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -12,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineConsoleVariableSetting_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -10,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineDeferredPassBase_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -4,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 21,
+			"ObjectName": "MoviePipelineExecutorJob_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_0",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_1",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_2",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_3",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_4",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_5",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_6",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_7",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_8",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -5,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "MoviePipelineExecutorShot_9",
+			"ObjectFlags": 8,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -6,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineGameOverrideSetting_0",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -11,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "MoviePipelineImageSequenceOutput_EXR_1",
+			"ObjectFlags": 0,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -7,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 20,
+			"ObjectName": "DefaultOutputSetting",
+			"ObjectFlags": 262153,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": true,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -8,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 6,
+			"ObjectName": "DefaultConfig",
+			"ObjectFlags": 262152,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": true,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": false,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		},
+		{
+			"ClassIndex": -9,
+			"SuperIndex": 0,
+			"TemplateIndex": 0,
+			"OuterIndex": 0,
+			"ObjectName": "EditorMoviePipelineQueue",
+			"ObjectFlags": 262155,
+			"SerialSize": 0,
+			"SerialOffset": 0,
+			"bForcedExport": false,
+			"bNotForClient": false,
+			"bNotForServer": false,
+			"bIsInheritedInstance": false,
+			"PackageFlags": 0,
+			"bNotAlwaysLoadedForEditorGame": true,
+			"bIsAsset": true,
+			"bGeneratePublicHash": false,
+			"FirstExportDependency": -1,
+			"SerializationBeforeSerializationDependencies": 0,
+			"CreateBeforeSerializationDependencies": 0,
+			"SerializationBeforeCreateDependencies": 0,
+			"CreateBeforeCreateDependencies": 0,
+			"ScriptSerializationStartOffset": 0,
+			"ScriptSerializationEndOffset": 0
+		}
+	],
+	"Thumbnails": {},
+	"Exports": {
+		"PackageMetaData": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {}
+			},
+			"ObjectMetaDataMap": [],
+			"RootMetaDataMap": [
+				[
+					"PackageLocalizationNamespace",
+					"BD1725EA17F32022E671E9BCAB01A04F"
+				]
+			]
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineAntiAliasingSetting_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"TemporalSampleCount": {
+						"__Type": "IntProperty",
+						"__PropertyExtensions": 0,
+						"__Value": 8
+					},
+					"bOverrideAntiAliasing": {
+						"__Type": "BoolProperty",
+						"__PropertyExtensions": 0,
+						"__Value": 1
+					},
+					"bUseCameraCutForWarmUp": {
+						"__Type": "BoolProperty",
+						"__PropertyExtensions": 0,
+						"__Value": 1
+					},
+					"bRenderWarmUpFrames": {
+						"__Type": "BoolProperty",
+						"__PropertyExtensions": 0,
+						"__Value": 1
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineColorSetting_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OCIOConfiguration": {
+						"__Type": "StructProperty(OpenColorIODisplayConfiguration(/Script/OpenColorIO))",
+						"__PropertyExtensions": 0,
+						"__Value": {
+							"bIsEnabled": {
+								"__Type": "BoolProperty",
+								"__PropertyExtensions": 0,
+								"__Value": 1
+							},
+							"ColorConfiguration": {
+								"__Type": "StructProperty(OpenColorIOColorConversionSettings(/Script/OpenColorIO))",
+								"__PropertyExtensions": 0,
+								"__Value": {
+									"ConfigurationSource": {
+										"__Type": "ObjectProperty",
+										"__PropertyExtensions": 0,
+										"__Value": "-16"
+									},
+									"SourceColorSpace": {
+										"__Type": "StructProperty(OpenColorIOColorSpace(/Script/OpenColorIO))",
+										"__PropertyExtensions": 0,
+										"__Value": {
+											"ColorSpaceName": {
+												"__Type": "StrProperty",
+												"__PropertyExtensions": 0,
+												"__Value": "Linear Rec.709 (sRGB)"
+											},
+											"ColorSpaceIndex": {
+												"__Type": "IntProperty",
+												"__PropertyExtensions": 0,
+												"__Value": 6
+											},
+											"FamilyName": {
+												"__Type": "StrProperty",
+												"__PropertyExtensions": 0,
+												"__Value": "Utility"
+											}
+										}
+									},
+									"DestinationColorSpace": {
+										"__Type": "StructProperty(OpenColorIOColorSpace(/Script/OpenColorIO))",
+										"__PropertyExtensions": 0,
+										"__Value": {
+											"ColorSpaceName": {
+												"__Type": "StrProperty",
+												"__PropertyExtensions": 0,
+												"__Value": "ACEScg"
+											},
+											"ColorSpaceIndex": {
+												"__Type": "IntProperty",
+												"__PropertyExtensions": 0,
+												"__Value": 3
+											},
+											"FamilyName": {
+												"__Type": "StrProperty",
+												"__PropertyExtensions": 0,
+												"__Value": "ACES"
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineConsoleVariableSetting_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"CVars": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineConsoleVariableEntry(/Script/MovieRenderPipelineSettings)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.ScreenPercentage"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 125
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.DepthOfFieldQuality"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 4
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.MotionBlurQuality"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 4
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.ShadowQuality"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 5
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.AmbientOcclusion.Denoiser.TemporalAccumulation"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 0
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.GlobalIllumination.Denoiser.TemporalAccumulation"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 0
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.Reflections.Denoiser.TemporalAccumulation"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 0
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.Shadow.Denoiser.TemporalAccumulation"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 0
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.RayTracing.ForceAllRayTracingEffects"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 0
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.VolumetricFog.GridSizeZ"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 256
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.VolumetricFog.GridPixelSize"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 2
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.VolumetricFog.TemporalReprojection"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.BloomQuality"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 5
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							},
+							{
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "r.RayTracing.GlobalIllumination.ScreenPercentage"
+								},
+								"Value": {
+									"__Type": "FloatProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 50
+								},
+								"bIsEnabled": {
+									"__Type": "BoolProperty",
+									"__PropertyExtensions": 0,
+									"__Value": 1
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineDeferredPassBase_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"bAccumulatorIncludesAlpha": {
+						"__Type": "BoolProperty",
+						"__PropertyExtensions": 0,
+						"__Value": 1
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"JobName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "LS_Kitchen"
+					},
+					"Sequence": {
+						"__Type": "StructProperty(SoftObjectPath(/Script/CoreUObject))",
+						"__PropertyExtensions": 0,
+						"__Value": "Object:/Game/LS_Kitchen.LS_Kitchen"
+					},
+					"Map": {
+						"__Type": "StructProperty(SoftObjectPath(/Script/CoreUObject))",
+						"__PropertyExtensions": 0,
+						"__Value": "Object:/Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap"
+					},
+					"ShotInfo": {
+						"__Type": "ArrayProperty(ObjectProperty)",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							"7",
+							"8",
+							"9",
+							"10",
+							"11",
+							"12",
+							"13",
+							"14",
+							"15",
+							"16"
+						]
+					},
+					"Configuration": {
+						"__Type": "ObjectProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "20"
+					},
+					"PresetOrigin": {
+						"__Type": "SoftObjectProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Object:/Game/Pending_MoviePipelinePrimaryConfig.Pending_MoviePipelinePrimaryConfig"
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(1)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Overall Camera"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_1": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(2)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Overall Camera2"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_2": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(3)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Drawings"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_3": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(4)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Heart Drawing"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_4": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(5)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Plant Camera"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_5": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(6)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Plant Camera2"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_6": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(7)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Shelves"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_7": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(8)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Shelves2"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_8": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(9)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Shelves3"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.MoviePipelineExecutorShot_9": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OuterName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "no shot(10)"
+					},
+					"InnerName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "Sink"
+					},
+					"SidecarCameras": {
+						"__Type": "ArrayProperty(StructProperty(MoviePipelineSidecarCamera(/Script/MovieRenderPipelineCore)))",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "194AFF4E40745B91228BF5965E810C27"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Sink"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "21B288EF4BD800E8FE6A67AACA9958AF"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Heart Drawing"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "2304D5CA48423C2828E26AB87A14D4DC"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves3"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "483D97394C9CC5F0090C80A1F6319DB2"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "619BDC6443E371C460D6CAABA845E039"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Drawings"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "643EB1EC4073E8D6A3FB1FA393206E87"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Plant Camera2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "845C26504D6C63E4E61274AA4EFBAAE8"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "969A6CEC4AA224685414B68ED06DE020"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "BF5BFA89470AD0D5661964870214AF3F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Shelves2"
+								}
+							},
+							{
+								"BindingId": {
+									"__Type": "StructProperty(Guid(/Script/CoreUObject))",
+									"__PropertyExtensions": 0,
+									"__Value": "D4E979D74C51BC4A8448298596C3F84F"
+								},
+								"Name": {
+									"__Type": "StrProperty",
+									"__PropertyExtensions": 0,
+									"__Value": "Overall Camera2"
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineGameOverrideSetting_0": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.MoviePipelineImageSequenceOutput_EXR_1": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"Compression": {
+						"__Type": "EnumProperty(EEXRCompressionFormat(/Script/MovieRenderPipelineRenderPasses),ByteProperty)",
+						"__PropertyExtensions": 0,
+						"__Value": "EEXRCompressionFormat::DWAB"
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig.DefaultOutputSetting": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OutputDirectory": {
+						"__Type": "StructProperty(DirectoryPath(/Script/CoreUObject))",
+						"__PropertyExtensions": 0,
+						"__Value": {
+							"Path": {
+								"__Type": "StrProperty",
+								"__PropertyExtensions": 0,
+								"__Value": "E:/Tiltan/3RD YEAR/Yagel Grozinger - Adv. Materials/Final Project/Diorama/Kitchen/images/RENDERS"
+							}
+						}
+					},
+					"OutputResolution": {
+						"__Type": "StructProperty(IntPoint(/Script/CoreUObject))",
+						"__PropertyExtensions": 0,
+						"__Value": {
+							"Data": "Base64:AA8AAHAIAAA="
+						}
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue:MoviePipelineExecutorJob_0.DefaultConfig": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"OutputSetting": {
+						"__Type": "ObjectProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "19"
+					},
+					"DisplayName": {
+						"__Type": "StrProperty",
+						"__PropertyExtensions": 0,
+						"__Value": "DefaultConfig"
+					},
+					"Settings": {
+						"__Type": "ArrayProperty(ObjectProperty)",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							"5",
+							"2",
+							"17",
+							"4",
+							"3",
+							"18"
+						]
+					}
+				}
+			}
+		},
+		"EditorMoviePipelineQueue": {
+			"Properties": {
+				"__SerializationControlExtensions": 0,
+				"__Value": {
+					"Jobs": {
+						"__Type": "ArrayProperty(ObjectProperty)",
+						"__PropertyExtensions": 0,
+						"__Value": [
+							"6"
+						]
+					}
+				}
+			}
+		}
+	},
+	"Summary": {
+		"Tag": -1641380927,
+		"LegacyFileVersion": -8,
+		"LegacyUE3Version": 864,
+		"FileVersionUE4": 522,
+		"FileVersionUE5": 1012,
+		"FileVersionLicenseeUE4": 0,
+		"CustomVersions": [
+			{
+				"Key": "D89B5E4224BD4D468412ACA8DF641779",
+				"Version": 51
+			},
+			{
+				"Key": "E4B068EDF49442E9A231DA0B2E46BB41",
+				"Version": 40
+			}
+		],
+		"TotalHeaderSize": 0,
+		"PackageName": "/Engine/MovieRenderPipeline/Editor/QueueManifest",
+		"PackageFlags": 0,
+		"NameCount": 92,
+		"NameOffset": 0,
+		"SoftObjectPathsCount": 0,
+		"SoftObjectPathsOffset": 0,
+		"LocalizationId": "BD1725EA17F32022E671E9BCAB01A04F",
+		"GatherableTextDataCount": 0,
+		"GatherableTextDataOffset": 0,
+		"ExportCount": 21,
+		"ExportOffset": 0,
+		"ImportCount": 21,
+		"ImportOffset": 0,
+		"DependsOffset": 0,
+		"SoftPackageReferencesCount": 0,
+		"SoftPackageReferencesOffset": 0,
+		"SearchableNamesOffset": 0,
+		"ThumbnailTableOffset": 0,
+		"Guid": "FC0E7CCC4D93F6093660FBA005F505FB",
+		"PersistentGuid": "7F36D49A4C001A842A279D846AC7DFCA",
+		"GenerationCount": 1,
+		"Generations": [
+			{
+				"ExportCount": 21,
+				"NameCount": 92
+			}
+		],
+		"SavedByEngineVersion": "5.4.4-35576357+++UE5+Release-5.4",
+		"CompatibleWithEngineVersion": "5.4.0-33043543+++UE5+Release-5.4",
+		"CompressionFlags": 0,
+		"CompressedChunks": [],
+		"PackageSource": 2952946835,
+		"AdditionalPackagesToCook": [],
+		"AssetRegistryDataOffset": 0,
+		"BulkDataStartOffset": 0,
+		"WorldTileInfoDataOffset": 0,
+		"ChunkIDs": [],
+		"PreloadDependencyCount": 0,
+		"PreloadDependencyOffset": 0,
+		"NamesReferencedFromExportDataCount": 69,
+		"PayloadTocOffset": -1,
+		"DataResourceOffset": 0
+	}
+}
